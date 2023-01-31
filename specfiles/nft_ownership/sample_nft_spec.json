@@ -1,0 +1,9 @@
+{
+    "contracts": {
+        "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D": "BAYC",
+        "0xb47e3cd837dDF8e4c57F05d70Ab865de6e193BBB": "Cryptopunks",
+        "0x8a90cab2b38dba80c64b7734e58ee1db38b8992e": "Doodles",
+        "0x23581767a106ae21c074b2276D25e5C3e136a68b": "Moonbirds",
+        "0x57f1887a8BF19b14fC0dF6Fd9B2acc9Af147eA85": "ENS"
+    }
+}

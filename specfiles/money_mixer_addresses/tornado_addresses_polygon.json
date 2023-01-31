@@ -1,0 +1,10 @@
+{
+    "comment": "Contracts pulled from: https://github.com/tornadocash/docs/blob/en/general/tornado-cash-smart-contracts.md",
+    "network": "polygon-pos",
+    "contracts": {
+        "0x1E34A77868E19A6647b1f2F47B51ed72dEDE95DD": "",
+        "0xdf231d99Ff8b6c6CBF4E9B9a945CBAcEF9339178": "",
+        "0xaf4c0B70B2Ea9FB7487C7CbB37aDa259579fe040": "",
+        "0xa5C2254e4253490C54cef0a4347fddb8f75A4998": ""
+    }
+}

@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    volumes:
+      - ./specfiles:/app/specfiles
+    environment:
+      - ALCHEMY_API_KEY=${ALCHEMY_API_KEY}
+    ports:
+      - 7200:80
