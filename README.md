@@ -26,6 +26,9 @@ To use the Alchemy API you will need to provide a key as an environment
 variable `ALCHEMY_API_KEY` which can be obtained free from the Alchemy's
 website.
 
+This repository is also available via IPFS and can be fund in the [Ocean](https://market.oceanprotocol.com/asset/did:op:a501d6eb47978d929ac2a9d4304a7997bcba9c2f11eaf9ebd8019ea4108645af) 
+with DID: `did:op:a501d6eb47978d929ac2a9d4304a7997bcba9c2f11eaf9ebd8019ea4108645af`.
+
 ## Overview
 
 There are two ways to use the current repository:
